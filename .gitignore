@@ -1,0 +1,9 @@
+venv/
+dist/
+build/
+*.spec
+__pycache__/
+*.pyc
+vocab_progress.db
+tmp_*.txt
+.git
